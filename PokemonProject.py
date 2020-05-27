@@ -1,4 +1,4 @@
-#Hello :)
+#Hello how's everyone doing... :)
 
 from random import randint
 import sys
